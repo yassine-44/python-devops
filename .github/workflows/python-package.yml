@@ -36,3 +36,4 @@ jobs:
           repository: yassinekrout/devops-python
           tag_with_ref: true 
           push: true
+          tags: v1
